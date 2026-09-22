@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "generated_at_utc": "2026-09-22T05:40:00+00:00",
+    "purpose": "GitHub/ChatGPT 검색용 법령·별표 지식 인덱스"
+  },
+  "law_count": 11,
+  "attachment_count": 239,
+  "files": {
+    "laws": "data/knowledge/laws/",
+    "attachments": "data/knowledge/attachments/"
+  }
+}
